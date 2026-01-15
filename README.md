@@ -2,7 +2,7 @@
 
 Modern and interactive personal portfolio website built with HTML5, CSS3, and JavaScript. Designed to showcase my mobile development skills and experience with a clean, responsive interface.
 
-🔗 **Canlı Demo:** [https://ysfayd3.github.io/portfolyo-sitem/](https://ysfayd3.github.io/portfolyo-sitem/)
+🔗 **Canlı Demo:** Coming soon
 
 ## 🛠️ Tech Stack
 
