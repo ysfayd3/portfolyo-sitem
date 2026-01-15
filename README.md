@@ -2,7 +2,7 @@
 
 Modern and interactive personal portfolio website built with HTML5, CSS3, and JavaScript. Designed to showcase my mobile development skills and experience with a clean, responsive interface.
 
-🔗 **Canlı Demo:** Coming soon
+🔗 **Canlı Demo:** (https://yusufaydin.vercel.app/)
 
 ## 🛠️ Tech Stack
 
